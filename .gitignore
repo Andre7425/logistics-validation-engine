@@ -1,0 +1,13 @@
+# Віртуальне середовище та кеш Python
+venv/
+__pycache__/
+*.pyc
+
+# Секрети та локальні налаштування IDE
+.env
+.vscode/
+
+# Великі файли даних та моделі
+*.csv
+/data
+src/taxi_pipeline/taxi_model.joblib

@@ -1,8 +1,0 @@
-# Created by venv; see https://docs.python.org/3/library/venv.html
-venv/
-__pycache__/
-*.pyc
-*.csv
-# Якщо файл моделі .joblib важить більше 50-100 МБ, його теж краще сховати:
-src/taxi_pipeline/taxi_model.joblib
-/data
